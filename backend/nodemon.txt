@@ -1,0 +1,1 @@
+nodemon --exec node --loader ts-node/esm .filename.ts
